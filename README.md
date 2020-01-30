@@ -1,5 +1,7 @@
-# Cisco Login Phishing Template
+# Login Phishing Templates
 
-INTENDED USE: EDUCATIONAL ONLY!
+## Compatible with gophish
+## INTENDED USE: EDUCATIONAL ONLY!
 
-It works but there is a complete mess of CSS and JS in the <head> section. Compatible with gophish
+NOTE:
+Cisco's template works but there is a complete mess of CSS and JS in the <head> section about 3k LoC of CSS, just be aware.
